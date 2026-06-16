@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroRegAddressLib><MacroRegAddress Name="Param" OperationMode="1" DataType="unsigned short" ArrayNumber="13"><Address Function="Param" UseIndexAddr="0" ImportTag="No"><RegAddr MasterValue="260" SlaveValue="0" MasterValueType="2" WordCount="13"><HMIID UsagePort="0">0</HMIID><PLCID PLCGEID="0">0</PLCID><AddressType SystemID="255" bPLCLabelAddr="0">LW</AddressType><AddressValue Type="Word" Length="1" CodeType="0">260</AddressValue><Priority>Normal</Priority></RegAddr></Address></MacroRegAddress></MacroRegAddressLib>
